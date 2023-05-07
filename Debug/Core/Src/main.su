@@ -1,0 +1,17 @@
+../Core/Src/main.c:112:5:main	208	static
+../Core/Src/main.c:220:6:SystemClock_Config	88	static
+../Core/Src/main.c:266:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:289:6:GYRO_Task	56	static
+../Core/Src/main.c:367:6:SCORE_Task	8	static
+../Core/Src/main.c:383:6:LCD_Task	8	static
+../Core/Src/main.c:415:6:Mode1	8	static
+../Core/Src/main.c:435:6:Mode2	8	static
+../Core/Src/main.c:455:6:Mode3	8	static
+../Core/Src/main.c:493:6:USB_Task	40	static
+../Core/Src/main.c:518:6:GameOver	8	static
+../Core/Src/main.c:536:6:StartTask01	16	static
+../Core/Src/main.c:555:6:StartTask02	16	static
+../Core/Src/main.c:574:6:StartTask03	16	static
+../Core/Src/main.c:593:6:StartTask04	16	static
+../Core/Src/main.c:612:6:StartTask05	16	static
+../Core/Src/main.c:628:6:Error_Handler	4	static,ignoring_inline_asm
